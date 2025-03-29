@@ -1,2 +1,2 @@
 # JS
-this is to JS completely
+this is to know JS completely
